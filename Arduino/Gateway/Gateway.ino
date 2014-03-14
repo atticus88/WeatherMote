@@ -1,3 +1,4 @@
+
 // **********************************************************************************************************
 // GarageMote garage door controller base receiver sketch that works with Moteinos equipped with HopeRF RFM69W/RFM69HW
 // Can be adapted to use Moteinos using RFM12B
